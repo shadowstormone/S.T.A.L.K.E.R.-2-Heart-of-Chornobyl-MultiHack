@@ -1,54 +1,105 @@
-# S.T.A.L.K.E.R. 2: Heart of Chornobyl — MultiHack / Trainer / Mod Menu / Cheat
+# ☢️ S.T.A.L.K.E.R. 2: Heart of Chornobyl — MultiHack
 
-Многофункциональное внутриигровое меню (internal DLL) для **одиночной** игры. Полноценный оверлей на ImGui с поддержкой **DLSS/Streamline**, локализацией **RU/EN**, сохранением профилей и биндами на любые функции.
+**English** | [Русский](README_RU.md)
 
-## 🎯 Аим
-- **Aimbot** — FOV, плавность наводки, выбор кости (голова/шея/грудь/таз), клавиша активации
-- **Silent Aim** — перенаправление пуль, круг FOV
-- Проверка FOV, настройки под себя
+## Overview
 
-## 👁 Визуал (ESP)
-- Линия к цели, **2D / 3D / угловой бокс**, **скелет**, полоса здоровья, имена
-- **Loot ESP** — контейнеры и артефакты, настройка дистанции
-- Свои цвета для всего + режим «радуга», кастомный прицел и курсор
+Internal DLL for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
 
-## 💪 Эксплойты
-- Режим бога, беск. **здоровье / выносливость / броня / патроны**
-- Нет разброса / отдачи / покачивания / перезарядки / заклинивания
-- **Скорострельность**, множитель урона / **ван-шот**
-- Нулевой вес, нет голода / радиации / кровотечения, авто-починка оружия
-- **NoClip / полёт**, ускорение, замедление, заморозка времени, беск. прыжок
-- Добавить купоны, kill в радиусе, разблокировать все заметки, репутация NPC
+> **Single-player only.**
 
-## 🌍 Мир
-- Время суток, промотать часы, **смена и фиксация погоды**, эмиссия старт/стоп
-- Сон, перестать следовать за игроком, показать/скрыть **HUD и компас**, A-Life вкл/выкл
+## Features
 
-## 📍 Телепорт
-- К отслеживаемому маркеру карты
-- **~39 готовых локаций** (тайники, базы, ключевые точки)
-- Ручной ввод координат XYZ
+### 🎯 Aim
+- Aimbot (FOV, Smooth, Bone Selection, Activation Key)
+- Silent Aim
+- Configurable FOV Circle
 
-## 📦 Спавнер предметов
-- **828 предметов в 15 категориях**: оружие, броня и шлемы, артефакты, патроны, обвесы, чертежи, расходники, детекторы, ПНВ, ключи, гранаты, части мутантов, квест-предметы
-- Спавн **NPC и мутантов**
-- Быстрый поиск (в т.ч. по-русски)
+### 👁 ESP
+- Line, 2D/3D/Corner Boxes
+- Skeleton
+- Health Bar
+- Names
+- Loot ESP
+- Custom Colors
+- Rainbow Mode
+- Custom Crosshair
 
-## 🚪 Коды от дверей
-- Встроенный справочник кодов от сейфов/дверей по локациям с поиском
+### 💪 Exploits
+- God Mode
+- Infinite Health / Armor / Stamina / Ammo
+- No Recoil / Spread / Reload / Jam
+- One Shot
+- Damage Multiplier
+- Rapid Fire
+- Unlimited Weight
+- No Hunger / Radiation / Bleeding
+- Fly / NoClip / Infinite Jump
+- Freeze Time
+- Add Coupons
+- NPC Reputation
+- Unlock All Notes
 
-## ⚙️ Удобство
-- **Профили конфигов** — сохранение/загрузка настроек и биндов
-- **Горячие клавиши** на любую функцию + поиск по списку
-- Темы оформления, масштаб шрифта, пресеты разрешения
-- Панель активных функций, локализация **RU/EN**
+### 🌍 World
+- Time Control
+- Weather Control
+- Emission Control
+- Sleep Anywhere
+- HUD / Compass Toggle
+- A-Life Toggle
 
-## 🎮 Управление
-- **Insert** — открыть/закрыть меню
-- **End** — выгрузить чит
+### 📍 Teleport
+- Waypoint Teleport
+- XYZ Teleport
+- 39+ Preset Locations
 
-## 📋 Требования / примечания
+### 📦 Item Spawner
+- 828+ Items
+- NPC Spawner
+- Mutant Spawner
+- Russian Search Support
+
+### 🚪 Door Codes
+- Searchable Safe & Door Code Database
+
+### ⚙ Configuration
+- Profiles
+- Hotkeys
+- Themes
+- UI Scale
+- Font Scale
+- RU / EN Localization
+
+## Controls
+
+| Key | Action |
+|---|---|
+| Insert | Open / Close Menu |
+| End | Unload DLL |
+
+## Requirements
+
 - Windows 10/11 x64
-- Режим окна **Borderless / Windowed** (для совместимости с DLSS/Streamline)
-- Инжект через любой DLL-инжектор
-- ⚠️ **Только одиночная игра.** Не использовать в мультиплеере/онлайне.
+- Borderless / Windowed Mode
+- Run Injector.exe
+
+## Logs
+
+Logs are saved to:
+
+```text
+%TEMP%\logs
+```
+
+## Issues
+
+Please include:
+- Game version
+- Cheat version
+- Reproduction steps
+- Screenshots
+- Logs
+
+## Disclaimer
+
+This project is intended **only for single-player gameplay**.
