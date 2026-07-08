@@ -1,4 +1,4 @@
-# S.T.A.L.K.E.R. 2: Heart of Chornobyl — Multi Hack (by ShadowStormOne)
+# S.T.A.L.K.E.R. 2: Heart of Chornobyl — MultiHack / Trainer / Mod Menu / Cheat
 
 Многофункциональное внутриигровое меню (internal DLL) для **одиночной** игры. Полноценный оверлей на ImGui с поддержкой **DLSS/Streamline**, локализацией **RU/EN**, сохранением профилей и биндами на любые функции.
 
