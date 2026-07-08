@@ -94,7 +94,7 @@ Logs are saved to:
 %TEMP%\logs
 ```
 
-## Issues
+## [Issues](https://github.com/shadowstormone/Stalker-2-Cheats-MultiHack/issues)
 
 Please include:
 - Game version
