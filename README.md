@@ -39,6 +39,13 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - No Hunger / Radiation / Bleeding
 - Fly / NoClip / Infinite Jump
 - Freeze Time
+- Bright Flashlight
+- Loot Multiplier
+- Stealth Mode
+- No Drunkenness
+- No Sleepiness
+- No Drowsiness
+- No Psy Effect
 - Add Coupons
 - NPC Reputation
 - Unlock All Notes
