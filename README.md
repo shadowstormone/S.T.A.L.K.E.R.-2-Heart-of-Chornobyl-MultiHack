@@ -6,6 +6,8 @@
 
 Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
 
+> **Cheat version:** v2.5
+
 > **Supported game version:** v1.9 (Build 22554680) — Ultimate Edition
 
 > **Single-player only.**
@@ -15,7 +17,13 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 
 ### 🎯 Aim
 - Aimbot (FOV, Smooth, Bone Selection, Activation Key)
+- **Multipoint** — priority bones (head → neck → chest → pelvis)
+- **Visibility Check** — never aims through walls
+- **Prediction** — automatic lead on moving targets. Bullet speed is read straight from the game, per weapon — nothing to configure
+- **Auto target switch** — instantly retargets when the current enemy dies
+- **Trigger Bot** — auto-fire when a visible target crosses the crosshair (FOV, reaction delay, optional hold key). Works without the aimbot
 - Silent Aim
+- **No Aim Sway** — removes weapon sway while aiming down sights
 - Configurable FOV Circle
 
 ### 👁 ESP
@@ -23,6 +31,7 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 - Skeleton
 - Health Bar
 - Names
+- **Distance** (in meters)
 - Loot ESP
 - Custom Colors
 - Rainbow Mode
@@ -31,7 +40,8 @@ Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui o
 ### 💪 Exploits
 - God Mode
 - Infinite Health / Armor / Stamina / Ammo
-- No Recoil / Spread / Reload / Jam
+- **No Recoil** — no camera kick, and bullets fly exactly into the crosshair (no climb during sustained fire)
+- No Spread / Reload / Jam
 - One Shot
 - Damage Multiplier
 - Rapid Fire
