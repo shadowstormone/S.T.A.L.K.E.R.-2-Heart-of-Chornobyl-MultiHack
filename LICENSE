@@ -1,0 +1,30 @@
+Copyright (c) 2026 ShadowStormOne. All Rights Reserved.
+
+S.T.A.L.K.E.R. 2: Heart of Chornobyl — MultiHack ("the Software")
+
+This is PROPRIETARY software. Only the compiled injector distributed on the
+official GitHub Releases page is made available to end users. The source code
+and the cheat library (DLL) are NOT published and remain the exclusive property
+of the author.
+
+YOU MAY:
+  - Download and run the released injector for personal, single-player use.
+
+YOU MAY NOT:
+  - Redistribute, re-upload, mirror, sell, rent, or sublicense the Software or
+    any part of it.
+  - Decompile, disassemble, reverse engineer, or otherwise attempt to derive the
+    source code, except to the extent expressly permitted by applicable law.
+  - Bundle the Software with other products or present it as your own work.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES, GAME BANS, OR OTHER LIABILITY ARISING FROM THE
+USE OF THE SOFTWARE.
+
+This project is intended for educational purposes and single-player gameplay
+only. Use at your own risk.
+
+Third-party open-source components bundled in the compiled binary are licensed
+separately under their own terms — see THIRD_PARTY_LICENSES.txt.
