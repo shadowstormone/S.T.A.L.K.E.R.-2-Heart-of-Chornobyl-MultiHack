@@ -6,7 +6,7 @@
 
 Internal cheat for **S.T.A.L.K.E.R. 2: Heart of Chornobyl** featuring an ImGui overlay, DLSS/NVIDIA Streamline compatibility, RU/EN localization, configurable hotkeys, profiles, ESP, Aimbot, Item Spawner, Teleport, World controls and many quality-of-life features.
 
-> **Cheat version:** v3.3
+> **Cheat version:** v3.4
 
 > **Supported game version:** v1.9 (Build 22554680) — Ultimate Edition
 
